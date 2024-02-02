@@ -1,0 +1,1 @@
+This is a Photocopy shop app. It is a one stop solution to get the documents printed without waiting in long queues. One can place order for printing the document from the app. Once their documents is printed they will recieve the notification to collect them and the amount they have to pay.
